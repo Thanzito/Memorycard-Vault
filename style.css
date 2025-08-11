@@ -1,0 +1,31 @@
+header{
+    background-color: rgb(33, 32, 32);
+    padding: 10px;
+}
+body{
+    background-image: url('synthwave.jpg');
+}
+h1{
+    color: aliceblue;
+}
+h2, p{
+    text-align: center;
+}
+footer{
+    background-color: rgb(33, 32, 32);
+    color: white;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+nav a:hover{
+    color: darkorchid;
+    font-size: 20px;
+}
